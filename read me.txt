@@ -1,3 +1,8 @@
 emily briggs
 9/9/2020
 this is my python directory folder
+adding stuff in git
+gust testing
+
+
+i think it is working
